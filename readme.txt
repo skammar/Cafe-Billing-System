@@ -22,6 +22,6 @@ FIRST Download
 
 7.Run the script http://localhost/Billing_Cafe_System
 
-Username: admin
-Password: admin123
+Username:admin
+Password:admin123
 
